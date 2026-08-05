@@ -2,3 +2,5 @@ env_ai/
 .venv/
 __pycache__/
 *.pyc
+Lenv/
+.env
